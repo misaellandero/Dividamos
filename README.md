@@ -6,3 +6,5 @@ Calcula la propina y divídela entre tus amigos.
 Este proyecto es parte de reto de los 100 dias de swiftUI de (https://www.hackingwithswift.com)
 
 ![Vista previa](https://landercorp.mx/sistema/images/imagen_promocional/IMG_7470.JPG)
+
+Visita mi sitio web (https://landercorp.mx/)
